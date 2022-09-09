@@ -1,0 +1,6 @@
+apiVersion: apps.relayrc.com/v1
+kind: Relayrc
+metadata:
+  name: relayrc-sample
+spec:
+  # TODO(user): Add fields here
